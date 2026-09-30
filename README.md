@@ -23,9 +23,9 @@ Every product works on QBCore and QBox servers, CFW included. Guides for each on
 
 | المنتج | وش يسوي | |
 |---|---|---|
-| [**لوحة تحكم دلتا**](https://github.com/d7teamdev/delta-panel) | لوحة تحكم سيرفرات فايف ام لـ QBCore و QBox و CFW | [الصفحة](https://d7team.com/ar/products/delta-panel) |
-| [**Advanced MDT**](https://github.com/d7teamdev/advanced-mdt) | سكربت MDT للشرطة في فايف ام لـ QBCore و QBox و CFW | [الصفحة](https://d7team.com/ar/products/advanced-mdt) |
-| [**Advanced BossMenu**](https://github.com/d7teamdev/advanced-bossmenu) | سكربت بوس منيو فايف ام لـ QBCore و QBox و CFW | [الصفحة](https://d7team.com/ar/products/advanced-bossmenu) |
+| [**لوحة تحكم دلتا**](https://github.com/d7teamdev/delta-panel) | لوحة تحكم سيرفرات فايف ام لـ QBCore و QBox | [الصفحة](https://d7team.com/ar/products/delta-panel) |
+| [**ام دي تي المطور**](https://github.com/d7teamdev/advanced-mdt) | سكربت MDT للشرطة في فايف ام لـ QBCore و QBox و CFW | [الصفحة](https://d7team.com/ar/products/advanced-mdt) |
+| [**بوس منيو المطور**](https://github.com/d7teamdev/advanced-bossmenu) | سكربت بوس منيو فايف ام لـ QBCore و QBox و CFW | [الصفحة](https://d7team.com/ar/products/advanced-bossmenu) |
 
 كل منتجاتنا تشتغل على سيرفرات QBCore و QBox، ومعها CFW. شرح كل منتج: [d7team.com/ar/guides](https://d7team.com/ar/guides)
 
