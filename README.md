@@ -19,13 +19,13 @@ Every product works on QBCore, QBox and ESX servers, CFW included. Guides for ea
 
 ## دلتا سفن · D7 Team
 
-دلتا سفن (D7 Team) تطور سكربتات فايف ام لسيرفرات QBCore و QBox و ESX و CFW: لوحة تحكم دلتا، و Advanced MDT، و Advanced BossMenu، وسيارات فايف ام مضافة.
+دلتا سفن (D7 Team) تطور سكربتات فايف ام لسيرفرات QBCore و QBox و ESX و CFW: لوحة دلتا، و ام دي تي متطور، و بوس منيو متطور، وسيارات فايف ام مضافة.
 
 | المنتج | وش يسوي | |
 |---|---|---|
-| [**لوحة تحكم دلتا**](https://github.com/d7teamdev/delta-panel) | لوحة تحكم سيرفرات فايف ام لـ QBCore و QBox و ESX و vRP | [الصفحة](https://d7team.com/ar/products/delta-panel) |
-| [**ام دي تي المطور**](https://github.com/d7teamdev/advanced-mdt) | سكربت MDT للشرطة في فايف ام لـ QBCore و QBox و ESX و CFW | [الصفحة](https://d7team.com/ar/products/advanced-mdt) |
-| [**بوس منيو المطور**](https://github.com/d7teamdev/advanced-bossmenu) | سكربت بوس منيو فايف ام لـ QBCore و QBox و ESX و CFW | [الصفحة](https://d7team.com/ar/products/advanced-bossmenu) |
+| [**لوحة دلتا**](https://github.com/d7teamdev/delta-panel) | لوحة تحكم سيرفرات فايف ام لـ QBCore و QBox و ESX و vRP | [الصفحة](https://d7team.com/ar/products/delta-panel) |
+| [**ام دي تي متطور**](https://github.com/d7teamdev/advanced-mdt) | سكربت MDT للشرطة في فايف ام لـ QBCore و QBox و ESX و CFW | [الصفحة](https://d7team.com/ar/products/advanced-mdt) |
+| [**بوس منيو متطور**](https://github.com/d7teamdev/advanced-bossmenu) | سكربت بوس منيو فايف ام لـ QBCore و QBox و ESX و CFW | [الصفحة](https://d7team.com/ar/products/advanced-bossmenu) |
 
 كل منتجاتنا تشتغل على سيرفرات QBCore و QBox و ESX، ومعها CFW. شرح كل منتج: [d7team.com/ar/guides](https://d7team.com/ar/guides)
 
