@@ -1,5 +1,5 @@
 <p align="center"><img src="https://d7team.com/icon-512.png" width="96" alt="Delta Seven"></p>
-<h1 align="center">Delta Seven · D7 Team</h1>
+<h1 align="center">Delta Seven Team</h1>
 <p align="center"><b>FiveM scripts for QBCore, QBox, ESX, vRP & CFW servers</b></p>
 <p align="center"><a href="https://d7team.com">d7team.com</a> · <a href="https://store.d7team.com">Store</a> · <a href="https://discord.gg/d-7">Discord</a> · <a href="https://www.youtube.com/@d7-team">YouTube</a></p>
 
